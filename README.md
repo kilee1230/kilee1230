@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Kin Fei</h1>
+- 👨‍💻 A passionate frontend developer from Malaysia <br/>
+- 💬 Ask me about react, redux, javascript, typescript
 
 ### Stats
 
