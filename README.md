@@ -1,4 +1,4 @@
-<h1> Hello Fellow <Developers />! <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 <div size='20px'> Hi! I'm Kin Fei. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
