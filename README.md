@@ -1,22 +1,30 @@
-<h1>Hi 👋, I'm Kin Fei</h1>
-- 👨‍💻 A passionate frontend developer from Malaysia <br/>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
+<div size='20px'> Hi! I'm Kin Fei. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/eatSleepCodeRepeat.gif" width ='100px' height='100px'/></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/kinfei/icons/main/gifs/git-header.svg" />
+
+- 👨‍💻 A passionate frontend developer from Malaysia
+- 🌱 I’m currently learning AWS, Design Patterns 
 - 💬 Ask me about react, redux, javascript, typescript
 
-### Stats
+<h2> Skills <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/code.gif" width='32px' height='32px'/></h2>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=javascript&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=typescript&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=reactjs&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=redux&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+</a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=nextjs&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=nodejs&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=electron&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=webpack&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'> </a>
+<a href="https://github.com/kinfei?tab=repositories&q=&type=&language=aws&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilee1230)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**kilee1230/kilee1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> My GitHub Stats</h2>
+<a href="https://github.com/kinfei/kinfei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilee1230&theme=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" />
+</a>
