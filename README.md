@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning AWS, Design Patterns 
 - 💬 Ask me about react, redux, javascript, typescript
 
+<br/>
+
 <h2> Skills <img src = "https://raw.githubusercontent.com/kinfei/icons/main/gifs/code.gif" width='32px' height='32px'/></h2>
 <a href="https://github.com/kilee1230?tab=repositories&q=&type=&language=javascript&sort="><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/kinfei/icons/main/icons/javascript.svg'/></a>&nbsp;
 <a href="https://github.com/kilee1230?tab=repositories&q=&type=&language=typescript&sort="><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/kinfei/icons/main/icons/typescript.svg'/></a>&nbsp;
@@ -23,6 +25,13 @@
 <a href="https://github.com/kilee1230?tab=repositories&q=&type=&language=webpack&sort="><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/kinfei/icons/main/icons/webpack.svg' /></a>&nbsp;
 <a href="https://github.com/kilee1230?tab=repositories&q=&type=&language=aws&sort="><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/kinfei/icons/main/icons/aws.svg' /></a>
 
+<br/><br/>
+
+### <h2> Certification(s)</h2>
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/23f29fde-be94-4c63-8417-337216a8b221)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9fb6f719-7bec-4ae3-85c1-d951c32ab0c1)
+
+<br/>
 
 <h2> My GitHub Stats</h2>
 <a href="https://github.com/kilee1230/kilee1230">
