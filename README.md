@@ -28,6 +28,7 @@
 <br/><br/>
 
 ### <h2> Certification(s)</h2>
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/86b0c9a2-6fa7-443e-9eea-36ebd03d75fc)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/23f29fde-be94-4c63-8417-337216a8b221)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/120x120/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/9fb6f719-7bec-4ae3-85c1-d951c32ab0c1)
 
