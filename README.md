@@ -7,10 +7,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/kinfei/icons/main/gifs/git-header.svg" />
 
-- 👨‍💻 A passionate frontend developer from Malaysia
-- 💼 I’m currently working on SEEK Asia
-- 🌱 I’m currently learning AWS, Design Patterns 
-- 💬 Ask me about react, redux, javascript, typescript
+- 👨‍💻 A passionate Full-Stack Software Engineer from Malaysia 🇲🇾
+- 💼 Currently building impactful products at **SEEK Asia**
+- ☁️ AWS Certified Solutions Architect – Professional
+- 🌱 Continuously exploring **Cloud Architecture, AI, and System Design**
+- 💬 Ask me about **React, TypeScript, JavaScript, Node.js, and AWS**
 
 <br/>
 
